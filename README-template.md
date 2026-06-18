@@ -4,9 +4,9 @@
 
 **Student name:** Jean-Baptist Malcekan
 
-**GitHub repository URL:** *PASTE YOUR REPOSITORY URL HERE*
+**GitHub repository URL:** (https://github.com/Jean-678/Final_Exam_JeanBaptist)
 
-**Render application URL:** *PASTE YOUR RENDER URL HERE*
+**Render application URL:** https://dashboard.render.com/project/prj-d8pjt0ugvqtc7399630g
 
 ---
 

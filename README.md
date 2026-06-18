@@ -12,21 +12,21 @@
 
 ## Application information
 
-**Application name:** *Final Exam - YOUR NAME*
+**Application name:** *Final Exam - JeanBaptist
 
-**Render project name:** *Final Exam - YOUR NAME*
+**Render project name:** *Final Exam - JeanBaptist
 
-**Branch used for production deployment:** **main**
+**Branch used for production deployment:** main
 
-**Staging branch name:** **staging**
+**Staging branch name:** staging
 
 ---
 
 ## Deployment configuration
 
-**Build command:** **npm install**
+**Build command:** npm install
 
-**Start command:** **npm start**
+**Start command:** npm start
 
 **Environment variable MSG:** **Final Exam**
 

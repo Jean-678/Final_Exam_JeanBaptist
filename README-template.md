@@ -2,7 +2,7 @@
 
 ## Student information
 
-**Student name:** *YOUR NAME HERE*
+**Student name:** Jean-Baptist Malcekan
 
 **GitHub repository URL:** *PASTE YOUR REPOSITORY URL HERE*
 

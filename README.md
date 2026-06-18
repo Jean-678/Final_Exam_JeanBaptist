@@ -28,9 +28,9 @@
 
 **Start command:** npm start
 
-**Environment variable MSG:** **Final Exam**
+**Environment variable MSG:** Final Exam
 
-**Environment variable ENV:** **Production**
+**Environment variable ENV:** Production
 
 ---
 
@@ -38,15 +38,15 @@
 
 ### Presentation endpoint
 
-**URL:** *PASTE YOUR RENDER URL HERE/presentation*
+**URL:** https://final-exam-jeanbaptist.onrender.com/presentation
 
-**Expected result:** *Result of the call*
+**Expected result:** Final Exam - Production
 
 ### Correction endpoint
 
 **URL:** *PASTE YOUR RENDER URL HERE/correction*
 
-**Error after first call:** *Put the result of the first call*
+**Error after first call:** Internal Server Error
 
 **Expected result after correction:** *Put the result of the call after the correction*
 
